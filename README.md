@@ -1,4 +1,4 @@
-#YOLOv5-ORB: Feature Detection & Matching
+# YOLOv5-ORB: Feature Detection & Matching
 
 This is a Sabancı University graduation project, in cooperation with General Electric. The title of the project is "Estimation of Cycle Time in Transformer Manufacturing Using a Vision Based Learning Technique". The aim of the project is to implement human detection and feature matching algorithms, which can work concurrently. 
 
