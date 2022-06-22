@@ -1,6 +1,8 @@
 # YOLOv5-ORB: Real-time Feature Detection & Matching
 
-The main functionality of the program is to work both human detection (YOLOv5) and feature matching (ORB) algorithms algorithm at the same time! On feature matching part, the implementation finds the best match of current frame among a dataset of reference images in real-time. 
+The main functionality of the program is to work human detection (YOLOv5) and feature matching (ORB) algorithms concurrently, and in real-time footage. 
+- Human detection detects the person and displays over the screen.
+- Feature matching extracts features and compares them with all of the dataset images to find the best match.
 
 To understand what the algorithm can do, please check the following video:
 
