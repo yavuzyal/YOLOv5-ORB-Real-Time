@@ -36,7 +36,7 @@ Here are some example results from human detection:
 ![4](https://user-images.githubusercontent.com/51164676/175025927-44472178-1ce7-4259-a5b6-b9a1fd205b1c.JPG)
 
 
-2 - The feature matching algorithm (ORB) is currently able to work in real time and can:
+**2 -** The feature matching algorithm (ORB) is currently able to work in real time and can:
 - Extract features for each frame
 - Match the current frame with a given reference image
 - Select best match of the current frame among a dataset of reference images
