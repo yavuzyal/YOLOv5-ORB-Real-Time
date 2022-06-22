@@ -4,8 +4,6 @@ The main functionality of the program is to work both human detection (YOLOv5) a
 
 To understand what the algorithm can do, please check the following video:
 
-
-
 **1 -** The human detection algorithm (YOLOv5) is able to detect the person within the frame in real time, and display:
 - Percentage of frames including at least one person
 - Time passed after the execution
@@ -45,13 +43,17 @@ Let's see some example results from feature matching:
 
 **No possible match from the dataset:**
 
-![21](https://user-images.githubusercontent.com/51164676/175026185-c52d44b5-97cd-4f3f-978b-c9bb9b15ccb4.JPG)
+![21](https://user-images.githubusercontent.com/51164676/175026836-eb23b831-a63f-45b6-b599-83959cf08de0.JPG)
+
 
 **Possible matches from the dataset:**
 
 Here, the program chooses the best match among the dataset and displays on the left side of the real-time footage.
 
 ![23](https://user-images.githubusercontent.com/51164676/175026346-99e10792-a001-4701-84ca-41b0f6821bf0.JPG)
+
+![22](https://user-images.githubusercontent.com/51164676/175026848-223e1a70-b335-4ad8-80dc-eb9a346ce9ee.JPG)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
