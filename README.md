@@ -23,19 +23,19 @@ Here are some example results from human detection:
 
 **Detection from Close Range:**
 
-![1](https://user-images.githubusercontent.com/51164676/175025807-c7adaa18-83bf-4028-b3b3-e42d3d2a1e89.JPG)
+![1](https://user-images.githubusercontent.com/51164676/175028068-8c2b4477-cd6c-4a0c-bac7-b08fca1b50ae.JPG)
 
 **Detection from Distance:**
 
-![2](https://user-images.githubusercontent.com/51164676/175025834-e2168d9e-a869-4bb9-96e0-c6a252f04321.JPG)
+![2](https://user-images.githubusercontent.com/51164676/175028045-9f58a8ea-ee68-41dd-8852-fef278fe7fa8.JPG)
 
 **Detection from Behind:**
 
-![3](https://user-images.githubusercontent.com/51164676/175025876-ee63a455-ba41-4d9a-b38e-e317dfb1f789.JPG)
+![3](https://user-images.githubusercontent.com/51164676/175027981-257f62e8-8a78-41f2-95aa-c4e9c352c1dd.JPG)
 
 **Detection from the Side:**
 
-![4](https://user-images.githubusercontent.com/51164676/175025927-44472178-1ce7-4259-a5b6-b9a1fd205b1c.JPG)
+![4](https://user-images.githubusercontent.com/51164676/175028010-9ce13382-e473-4aa6-84e1-23bf26b715f8.JPG)
 
 ## 2- Feature Matching with ORB
 
