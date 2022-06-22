@@ -35,7 +35,7 @@ Here are some example results from human detection:
 
 **Detection from the Side:**
 
-![4](https://user-images.githubusercontent.com/51164676/175028010-9ce13382-e473-4aa6-84e1-23bf26b715f8.JPG)
+![4](https://user-images.githubusercontent.com/51164676/175028531-30c1758b-cbdd-4753-be8d-c5c6cf844923.JPG)
 
 ## 2- Feature Matching with ORB
 
