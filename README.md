@@ -6,7 +6,9 @@ The main functionality of the program is to work human detection (YOLOv5) and fe
 
 To better understand what the algorithm can do, please check the following video:
 
-**1 -** The human detection algorithm (YOLOv5) is able to detect the person within the frame in real time, and display:
+## 1- Human Detection
+
+The human detection algorithm (YOLOv5) is able to detect the person within the frame in real time, and display:
 - Percentage of frames including at least one person
 - Time passed after the execution
 - Total time having at least one preson within the frame
@@ -35,8 +37,9 @@ Here are some example results from human detection:
 
 ![4](https://user-images.githubusercontent.com/51164676/175025927-44472178-1ce7-4259-a5b6-b9a1fd205b1c.JPG)
 
+## 2- Feature Matching
 
-**2 -** The feature matching algorithm (ORB) is currently able to work in real time and can:
+The feature matching algorithm (ORB) is currently able to work in real time and can:
 - Extract features for each frame
 - Match the current frame with a given reference image
 - Select best match of the current frame among a dataset of reference images
