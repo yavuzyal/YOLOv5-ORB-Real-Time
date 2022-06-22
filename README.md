@@ -6,7 +6,7 @@ To understand what the algorithm can do, please check the following video:
 
 
 
-1 - The human detection algorithm (YOLOv5) is able to detect the person within the frame in real time, and display:
+**1 -** The human detection algorithm (YOLOv5) is able to detect the person within the frame in real time, and display:
 - Percentage of frames including at least one person
 - Time passed after the execution
 - Total time having at least one preson within the frame
