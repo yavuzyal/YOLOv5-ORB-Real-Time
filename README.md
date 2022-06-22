@@ -59,7 +59,7 @@ Here, the program chooses the best match among the dataset and displays on the l
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## From scratch:
+## GUI
 
 The program starts with a very simple GUI, which can be seen below:
 
