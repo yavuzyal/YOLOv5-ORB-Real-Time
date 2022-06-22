@@ -4,7 +4,9 @@ The main functionality of the program is to work human detection (YOLOv5) and fe
 - Human detection detects the person and displays over the screen.
 - Feature matching extracts features and compares them with all of the dataset images to find the best match.
 
-To better understand what the algorithm can do, please check the following video:
+To better understand what the algorithm can do, please check the following demo:
+
+https://user-images.githubusercontent.com/51164676/175068495-56f8c370-5313-43cd-b6c8-e91f8693e81d.mp4
 
 ## 1- Human Detection with YOLOv5
 
